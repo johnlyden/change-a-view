@@ -2,6 +2,7 @@
   "name": "change-a-view",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://johnlyden.github.io/change-a-view/",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "react": "^15.6.1",
